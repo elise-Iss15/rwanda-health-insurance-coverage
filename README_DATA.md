@@ -10,8 +10,7 @@ This project uses microdata that cannot be redistributed, so the raw data is not
 | Producer | National Institute of Statistics of Rwanda (NISR), National Data Archive |
 | Catalog page | https://microdata.statistics.gov.rw/index.php/catalog/119 |
 | Download page | https://microdata.statistics.gov.rw/index.php/catalog/119/get_microdata |
-| Date accessed | [fill in] |
-| Citation | [paste the exact citation text shown with the dataset on the portal] |
+| Citation | https://statistics.gov.rw/data-sources/surveys/EICV/integrated-household-living-conditions-survey-7-eicv-7 |
 
 ## 2. Why the raw data is not included
 
@@ -22,7 +21,7 @@ NISR's terms say data from the National Data Archive may not be redistributed or
 1. Go to the catalog page above and click Register or Login.
 2. Open the Get Microdata page.
 3. Fill in the short project description, read and accept the terms, and submit.
-4. Download these two files (names as listed on the portal; confirm against your download: [fill in exact file names and format]):
+4. Download two files:
    - the person-level file, which has the section 3 health variables
    - the poverty file, which has household consumption quintile and poverty category
 5. Put both files in a folder named `data/` next to the notebook. It is listed in `.gitignore`, so it must never be committed.
@@ -67,6 +66,4 @@ Not included:
 - NISR cited as the data source
 - A copy of the final report will be sent to the National Data Archive
 
-## 8. Contact
 
-[Your name] | [Your email]

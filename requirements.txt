@@ -1,6 +1,4 @@
-# Minimum versions. After your final Colab run, replace each line with the exact version
-# printed by:  !pip freeze | grep -i -E "^(pandas|numpy|scikit-learn|scipy|matplotlib|tensorflow|tensorboard|pyreadstat|joblib)=="
-# Python 3.10 or newer is required (the notebook uses modern type hints).
+
 pandas>=2.0
 numpy>=1.24
 scikit-learn>=1.2

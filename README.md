@@ -4,7 +4,6 @@ Comparing traditional machine learning and deep learning on the EICV7 2023-24 ho
 
 ## Links
 - **Video presentation:** https://youtu.be/xy3TloS9p6U
-Who Is Still Without Health Insurance in Rwanda? | ML Project
 - **Google Drive folder (saved models, notebook, documentation):** [add link]
 
 ## Overview

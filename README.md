@@ -3,7 +3,8 @@
 Comparing traditional machine learning and deep learning on the EICV7 2023-24 household survey.
 
 ## Links
-- **Video presentation:** [add link]
+- **Video presentation:** https://youtu.be/xy3TloS9p6U
+Who Is Still Without Health Insurance in Rwanda? | ML Project
 - **Google Drive folder (saved models, notebook, documentation):** [add link]
 
 ## Overview
@@ -15,7 +16,7 @@ About 85% of people in Rwanda have health insurance, yet 14.4% of people in the 
 | Model | Sensitivity | Precision | ROC-AUC | PR-AUC |
 |---|---|---|---|---|
 | Gradient boosting (E5b) | 0.853 | 0.201 | 0.751 | 0.353 |
-| Neural network | [fill from final run] | [ ] | [ ] | [ ] |
+| Neural network | [ ] | [ ] | [ ] |
 
 ## Repository contents
 

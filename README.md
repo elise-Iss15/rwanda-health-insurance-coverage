@@ -3,8 +3,6 @@
 Comparing traditional machine learning and deep learning on the EICV7 2023-24 household survey.
 
 ## Links
-
-- **Report (PDF):** [add link or file name]
 - **Video presentation:** [add link]
 - **Google Drive folder (saved models, notebook, documentation):** [add link]
 
@@ -42,8 +40,8 @@ The raw data comes from the National Institute of Statistics of Rwanda (NISR). N
 
 ## Citation
 
-NISR data citation: [paste the exact citation text provided with the dataset].
+NISR data citation:https://statistics.gov.rw/data-sources/surveys/EICV/integrated-household-living-conditions-survey-7-eicv-7.
 
 ## Author
 
-[Your name], [course and university]
+Elyse Ishimwe, e.ishimwe3@alustudent.com
